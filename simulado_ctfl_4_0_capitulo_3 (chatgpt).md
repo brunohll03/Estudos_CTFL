@@ -17,8 +17,11 @@
 Uma equipe deseja aplicar testes estáticos antes de existir uma versão executável. Qual conjunto contém SOMENTE produtos de trabalho examináveis estaticamente?
 
 A) Requisitos, diagramas de arquitetura e código-fonte ainda não executado.
+
 B) Logs de execução, resultados de carga e falhas observadas em produção.
+
 C) Respostas de uma API em execução, tempos de resposta e consumo de memória.
+
 D) Transações executadas no banco, sessões de usuário e métricas de produção.
 
 ---
@@ -27,8 +30,11 @@ D) Transações executadas no banco, sessões de usuário e métricas de produç
 Uma ferramenta aponta uma variável atribuída, mas nunca utilizada, sem iniciar a aplicação. Qual classificação é MAIS adequada?
 
 A) Teste dinâmico com cobertura de instruções.
+
 B) Teste estático por análise automatizada.
+
 C) Depuração guiada por execução.
+
 D) Teste de integração estrutural.
 
 ---
@@ -37,8 +43,11 @@ D) Teste de integração estrutural.
 Um requisito informa que o pagamento será “processado rapidamente”. A ambiguidade é identificada numa revisão antes da implementação. Qual benefício é MAIS diretamente demonstrado?
 
 A) Eliminação da necessidade de testes de desempenho.
+
 B) Garantia de que o comportamento final não terá falhas.
+
 C) Detecção antecipada de um defeito no produto de trabalho, evitando potencial retrabalho.
+
 D) Comprovação de que os requisitos foram integralmente validados em produção.
 
 ---
@@ -47,8 +56,11 @@ D) Comprovação de que os requisitos foram integralmente validados em produçã
 Durante uma revisão de histórias de usuário, QA, negócio e desenvolvimento descobrem interpretações incompatíveis sobre o limite de transferências. Qual resultado exemplifica MELHOR o valor da revisão?
 
 A) Transferir aos testadores a responsabilidade exclusiva pela regra.
+
 B) Dispensar critérios de aceite, já que houve consenso verbal.
+
 C) Transformar uma revisão em teste dinâmico por envolver desenvolvedores.
+
 D) Construir entendimento comum e melhorar a consistência dos requisitos antes de implementá-los.
 
 ---
@@ -57,8 +69,11 @@ D) Construir entendimento comum e melhorar a consistência dos requisitos antes 
 Um QA encontra uma condição contraditória num fluxograma. Depois, executa o software e observa uma resposta HTTP incorreta. Como classificar, respectivamente, essas observações?
 
 A) Defeito identificável estaticamente e falha observada dinamicamente.
+
 B) Duas falhas dinâmicas, pois ambas afetam o sistema.
+
 C) Dois defeitos que exigem necessariamente execução.
+
 D) Primeiro depuração; depois revisão informal.
 
 ---
@@ -67,8 +82,11 @@ D) Primeiro depuração; depois revisão informal.
 Um líder afirma que é preciso escolher entre revisões de código e execução de testes, porque ambas detectam exatamente os mesmos problemas. Qual avaliação é MAIS correta?
 
 A) A afirmação procede quando há alta cobertura automatizada.
+
 B) A afirmação procede apenas em sistemas sem interface.
+
 C) Revisões e testes dinâmicos são complementares e podem revelar tipos diferentes de problemas.
+
 D) Revisões detectam somente falhas de desempenho, enquanto testes dinâmicos detectam ambiguidades.
 
 ---
@@ -77,8 +95,11 @@ D) Revisões detectam somente falhas de desempenho, enquanto testes dinâmicos d
 Um analista lê o código de uma função para planejar entradas que cubram seus ramos e, em seguida, executa essas entradas. Qual descrição distingue corretamente as atividades?
 
 A) Ambas são estáticas, porque se baseiam na estrutura interna.
+
 B) A leitura é análise sem execução; a execução dos casos planejados é teste dinâmico.
+
 C) Ambas são dinâmicas, porque o objetivo final é avaliar código.
+
 D) A leitura é obrigatoriamente inspeção formal, e a execução é depuração.
 
 ---
@@ -87,8 +108,11 @@ D) A leitura é obrigatoriamente inspeção formal, e a execução é depuraçã
 Num projeto, representantes de negócio revisam frequentemente protótipos e histórias antes do desenvolvimento. Qual benefício é o MAIS consistente com o syllabus?
 
 A) Evitar que stakeholders solicitem mudanças após a primeira revisão.
+
 B) Aumentar a quantidade de documentação exigida, independentemente do contexto.
+
 C) Garantir aprovação automática de todos os requisitos.
+
 D) Detectar mal-entendidos cedo e permitir ajustes com menor custo potencial.
 
 ---
@@ -97,8 +121,11 @@ D) Detectar mal-entendidos cedo e permitir ajustes com menor custo potencial.
 Um time recebe feedback somente após seis meses de implementação. Em outro projeto semelhante, recebe feedback sobre pequenos incrementos a cada sprint. Qual risco tende a ser MENOR no segundo?
 
 A) Descobrir tardiamente que a solução diverge das necessidades dos interessados.
+
 B) Existirem mudanças na percepção dos interessados durante o projeto.
+
 C) Ser necessário esclarecer decisões em algum momento.
+
 D) Precisar executar testes após a implementação.
 
 ---
@@ -107,8 +134,11 @@ D) Precisar executar testes após a implementação.
 Uma revisão formal será iniciada. É necessário definir escopo, objetivos, participantes, critérios de entrada e saída e cronograma. A qual atividade essas decisões pertencem PRINCIPALMENTE?
 
 A) Comunicação e análise.
+
 B) Planejamento.
+
 C) Correção e relatório.
+
 D) Revisão individual.
 
 ---
@@ -117,8 +147,11 @@ D) Revisão individual.
 Após o planejamento, os participantes recebem os documentos e instruções necessárias. Depois, cada revisor examina o material e registra anomalias. Qual é a sequência MAIS apropriada?
 
 A) Revisão individual → planejamento.
+
 B) Comunicação e análise → correção e relatório.
+
 C) Iniciação da revisão → revisão individual.
+
 D) Correção e relatório → iniciação da revisão.
 
 ---
@@ -127,8 +160,11 @@ D) Correção e relatório → iniciação da revisão.
 Três revisores registraram a mesma suspeita de inconsistência. A equipe reúne as observações, discute se existe um defeito e define ações necessárias. Qual atividade predomina?
 
 A) Comunicação e análise.
+
 B) Planejamento.
+
 C) Revisão individual.
+
 D) Iniciação da revisão.
 
 ---
@@ -137,8 +173,11 @@ D) Iniciação da revisão.
 Após discussão das anomalias, o autor atualiza a especificação. A equipe verifica o tratamento dos achados, registra resultados e avalia critérios de saída. Qual atividade predomina?
 
 A) Iniciação.
+
 B) Revisão individual.
+
 C) Planejamento.
+
 D) Correção e relatório.
 
 ---
@@ -147,8 +186,11 @@ D) Correção e relatório.
 Durante uma revisão formal, uma pessoa conduz a reunião, gerencia tempo e participação e procura manter o debate produtivo. Qual papel descreve MELHOR essa responsabilidade?
 
 A) Autor.
+
 B) Facilitador (moderador).
+
 C) Escriba.
+
 D) Gerente.
 
 ---
@@ -157,8 +199,11 @@ D) Gerente.
 Uma revisão precisa de alguém que registre anomalias e decisões tomadas durante a reunião. Qual papel é o MAIS diretamente responsável pelo registro?
 
 A) Autor.
+
 B) Gerente.
+
 C) Escriba.
+
 D) Revisor.
 
 ---
@@ -167,8 +212,11 @@ D) Revisor.
 Uma pessoa criou a especificação analisada, enquanto outra examina criticamente o documento em busca de anomalias. Qual correspondência é CORRETA?
 
 A) Criador: autor; examinador: revisor.
+
 B) Criador: moderador; examinador: gerente.
+
 C) Criador: escriba; examinador: autor.
+
 D) Criador: revisor; examinador: facilitador.
 
 ---
@@ -177,8 +225,11 @@ D) Criador: revisor; examinador: facilitador.
 Um desenvolvedor conduz colegas por sua própria proposta de solução, explicando decisões e solicitando sugestões. A atividade tem caráter educacional e pode revelar anomalias. Qual tipo de revisão é MAIS compatível?
 
 A) Inspeção.
+
 B) Revisão técnica, necessariamente dirigida por moderador.
+
 C) Análise estática automatizada.
+
 D) Walkthrough (passo a passo).
 
 ---
@@ -187,8 +238,11 @@ D) Walkthrough (passo a passo).
 Uma organização exige revisão com processo rigoroso, papéis definidos, critérios estabelecidos, coleta de métricas e foco explícito em encontrar defeitos. Qual tipo é o MAIS adequado?
 
 A) Revisão informal.
+
 B) Inspeção.
+
 C) Walkthrough.
+
 D) Teste exploratório.
 
 ---
@@ -197,8 +251,11 @@ D) Teste exploratório.
 Arquitetos e desenvolvedores avaliam uma proposta de integração para discutir abordagens alternativas, confirmar adequação técnica e construir consenso. Qual revisão corresponde MELHOR ao objetivo?
 
 A) Inspeção exclusivamente orientada a métricas.
+
 B) Revisão informal sem objetivo definido.
+
 C) Revisão técnica.
+
 D) Walkthrough necessariamente conduzido pelo autor.
 
 ---
@@ -207,8 +264,11 @@ D) Walkthrough necessariamente conduzido pelo autor.
 Em uma revisão, o gerente usa as anomalias encontradas para avaliar negativamente o desempenho individual dos autores. As reuniões tornam-se defensivas e surgem poucos comentários. Qual medida está MAIS alinhada às boas práticas?
 
 A) Criar ambiente de confiança, focar a qualidade do produto e evitar usar resultados para julgar pessoas.
+
 B) Ampliar as reuniões sem definir objetivo ou preparação prévia.
+
 C) Retirar revisores de outras áreas para reduzir divergências.
+
 D) Cancelar o registro de achados para diminuir conflitos.
 
 ---
